@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LostMVP1
+- 👋 Hi, I’m </Lost>
 - 👀 I’m interested in Programming and developing mods
 
 - 🌱 There are some of my newest projects: (download links)
