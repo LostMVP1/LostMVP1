@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and developing mods
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on some project.
-- 📫 How to reach me? -Just contact me on discord! Lostik#9015-
+- 📫 How to reach me? -Just contact me on discord! Lost_MVP
 
 <!---
 LostMVP1/LostMVP1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
