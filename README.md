@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @Lost_MVP1**
 - 👀 I’m interested in Programming and developing mods
-- ⬇️ There are some of my newest projects: **(click for download)**
+- 🔰 There are some of my newest projects: **(click for download)**
 - 💙 **blue CS:GO radar**
 - Language (Czech)   [Lost's Radar Blue (cz).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12302302/Lost.s.Radar.Blue.cz.zip)
 - Language (English) [Lost's Radar Blue (eng).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12303371/Lost.s.Radar.Blue.eng.zip)
