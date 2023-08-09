@@ -4,10 +4,10 @@
 - 💙 blue CS:GO radar
 - Language (Czech)   [Lost's Radar Blue (cz).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12302302/Lost.s.Radar.Blue.cz.zip)
 - Language (English) 
-- ❤️ red CS:GO radar
+- ❤️ red CS:GO radar (in progress...)
 - Language (Czech)
 - Language (English)
-- 💛 yellow CS:GO radar
+- 💛 yellow CS:GO radar (in progress...)
 - Language (Czech)
 - Language (English)
 
