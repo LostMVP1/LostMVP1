@@ -3,7 +3,7 @@
 - 🌱 There are some of my newest projects: (download links)
 - 💙 blue CS:GO radar
 - Language (Czech)   [Lost's Radar Blue (cz).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12302302/Lost.s.Radar.Blue.cz.zip)
-- Language (English) 
+- Language (English) [Lost's Radar Blue (eng).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12303371/Lost.s.Radar.Blue.eng.zip)
 - ❤️ red CS:GO radar (work in progress...)
 - Language (Czech)
 - Language (English)
