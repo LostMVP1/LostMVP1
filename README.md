@@ -12,7 +12,7 @@
 - Language (English) [Lost's Radar Yellow (eng).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12303467/Lost.s.Radar.Yellow.eng.zip)
 - 💜 **purple CS:GO radar**
 - Language (Czech) [Lost's Radar Purple (cz).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12312842/Lost.s.Radar.Purple.cz.zip)
-- Language (English) 
+- Language (English) [Lost's Radar Purple (eng).zip](https://github.com/LostMVP1/LostsRadar-cz-B/files/12312852/Lost.s.Radar.Purple.eng.zip)
 <!---
 LostMVP1/LostMVP1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
